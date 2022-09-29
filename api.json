@@ -1,14 +1,14 @@
 {
   "name": "landing",
   "description": "Landing Page Template for Github Pages",
-  "url": "https://landing.page.as/api",
+  "url": "https://landing.clevenger.to/api",
   "type": "https://apis.do/api",
   "endpoints": {
-    "api": "https://landing.page.as/api"
+    "api": "https://landing.clevenger.to/api"
   },
-  "site": "https://landing.page.as",
-  "login": "https://landing.page.as/login",
-  "signup": "https://landing.page.as/signup",
-  "subscribe": "https://landing.page.as/subscribe",
+  "site": "https://landing.clevenger.to",
+  "login": "https://landing.clevenger.to/login",
+  "signup": "https://landing.clevenger.to/signup",
+  "subscribe": "https://landing.clevenger.to/subscribe",
   "repo": "https://github.com/JonathanClevenger/landing"
 }
